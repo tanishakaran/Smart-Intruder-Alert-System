@@ -44,6 +44,10 @@ The HC-SR04 ultrasonic sensor measures the distance of a nearby object.
 
 The project was designed and tested using **Tinkercad Circuits**.
 
+## 📸 Circuit
+
+![Smart Intruder Alert Circuit](circuit.png)
+
 🔗 **Live Tinkercad Simulation:**  
 *Link will be added after the circuit becomes public.*
 
