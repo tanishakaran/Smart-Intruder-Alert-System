@@ -40,9 +40,9 @@ The HC-SR04 ultrasonic sensor measures the distance of a nearby object.
 
 **Object Detection → Ultrasonic Sensor → Arduino → LED + Buzzer Alert**
 
-## 🛠️ Simulation
+## 🔗 Live Tinkercad Simulation
 
-The project was designed and tested using **Tinkercad Circuits**.
+[Open the Smart Intruder Alert System in Tinkercad](https://www.tinkercad.com/things/6hIHxG7ebBv-iot-project-36-smart-intruder-alert-system-arduino)
 
 ## 📸 Circuit
 
